@@ -4,7 +4,7 @@ I'm a passionate full-stack developer and technical writer.
 
 - 💬 Feel free to ask me about **web dev, backend, APIs, and databases**
 
-- 🌱 I’m currently learning **cloud development and AWS** and working through [FreeCodeCamp certificates](https://www.freecodecamp.org/learn)
+- 🌱 I’m currently learning **cloud development and AWS** and working through [freeCodeCamp certificates](https://www.freecodecamp.org/learn)
 
 - 📝 I write articles on [Dev.to](https://dev.to/maggiecodes_)
 
